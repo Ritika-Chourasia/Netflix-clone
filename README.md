@@ -26,10 +26,15 @@ Contributing
 Contributions to this project are welcome! If you find any issues or would like to add new features, please feel free to submit a pull request.
 
 Fork the repository.
+
 Create your feature branch: git checkout -b feature/my-new-feature.
+
 Commit your changes: git commit -m 'Add some feature'.
+
 Push to the branch: git push origin feature/my-new-feature.
+
 Submit a pull request.
+
 License
 This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license. However, please note that this project is intended for educational purposes and personal use, and it is not associated with or endorsed by Netflix or TMDb.
 
